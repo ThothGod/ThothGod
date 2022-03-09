@@ -1,7 +1,7 @@
 ### Hello World!👋 
 <div> 
  
-  ![Snake animation](https://github.com/thothdeus/thothdeus/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/thothdeus/thothdeus/blob/output/github-contribution-grid-snake.svg)
  
   
   <a href="https://api.whatsapp.com/send?phone=5511930758170" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
